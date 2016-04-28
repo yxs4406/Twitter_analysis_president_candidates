@@ -5,3 +5,4 @@ File GOP_now.py is for present tweets analysis (collection 120 tweets for each c
 
 File GOP_old.py is for last one year tweets (100 tweets were collected each day) for candidate Hillary Clinton and Donald Trump <IMG SRC="one_year_tweets.jpg">
 
+Thanks Jefferson 's <a href="https://github.com/Jefferson-Henrique/GetOldTweets-python.git""> work</a> to get old tweets.
