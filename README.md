@@ -1,7 +1,7 @@
 # Twitter_analysis_president candidates
-Using twitter data to see how positive and negative attitude to candidates
+Using twitter data to see how positive and negative of public attitude to president candidates (this project was first developed to investigated Republic, late extended to include Democratic candidates)
 
-File GOP_now.py is for present tweets analysis (collection 120 tweets for each candidate, then clean them, and pick out positive words and negatibve words <IMG SRC="emotional_120.jpg" ALT="Positive words and negative words">.
+File GOP_now.py is for present tweets analysis (collection 120 tweets for each candidate, then clean them, and pick out positive words and negative words <IMG SRC="emotional_120.jpg" ALT="Positive words and negative words">.
 
 The ratio of positive vs. negative words <IMG SRC="opinion_120.jpg" ALT="positive words vs negatives">
 
